@@ -1555,7 +1555,7 @@ AcDbLayerTableRecord
   2
 Power - Generator
  70
-0
+4
  62
 6
 420
@@ -1621,9 +1621,9 @@ AcDbLayerTableRecord
   2
 NOC-DK
  70
-5
+4
  62
--134
+134
 420
 32896
   6
@@ -1643,9 +1643,9 @@ AcDbLayerTableRecord
   2
 Road-Trackway
  70
-5
+4
  62
--2
+2
 420
 16776960
   6
@@ -1753,7 +1753,7 @@ AcDbLayerTableRecord
   2
 Lighting-ExtFestoon
  70
-4
+0
  62
 54
 420
@@ -11485,21 +11485,21 @@ AcDbPolyline
  70
 0
  10
-482820.397034999972675
+482820.2937646445934661
  20
-230440.6416449999960605
+230437.423023545241449
  30
 0.0
  10
-482832.1749880000133999
+482853.3477316261269152
  20
-230441.3554599999915808
+230436.2350275144854095
  30
 0.0
  10
-482833.9595260000205599
+482827.4725624896236695
  20
-230507.0264690000039991
+230506.6076466055237688
  30
 0.0
   0
@@ -11623,38 +11623,6 @@ AcDbPolyline
  70
 0
  10
-483088.07777899998473
- 20
-230751.1513069999928121
- 30
-0.0
- 10
-483059.8820740000228398
- 20
-230760.7878140000102576
- 30
-0.0
-  0
-LWPOLYLINE
-  5
-D2
-  8
-Lighting-ExtFestoon
- 62
-256
-370
--1
-  6
-BYLAYER
-100
-AcDbEntity
-100
-AcDbPolyline
- 90
-2
- 70
-0
- 10
 483044.5350450000260025
  20
 230524.158036999986507
@@ -11669,7 +11637,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-D3
+D2
   8
 Lighting-ExtFestoon
  62
@@ -11701,7 +11669,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-D4
+D3
   8
 Lighting-ExtFestoon
  62
@@ -11733,7 +11701,7 @@ AcDbPolyline
   0
 INSERT
   5
-D5
+D4
 100
 AcDbEntity
 100
@@ -11757,7 +11725,7 @@ Datenklos5
   0
 INSERT
   5
-D6
+D5
 100
 AcDbEntity
 100
@@ -11781,7 +11749,7 @@ Datenklos5
   0
 INSERT
   5
-D7
+D6
 100
 AcDbEntity
 100
@@ -11805,7 +11773,7 @@ Datenklos5
   0
 INSERT
   5
-D8
+D7
 100
 AcDbEntity
 100
@@ -11829,7 +11797,7 @@ Datenklos5
   0
 INSERT
   5
-D9
+D8
 100
 AcDbEntity
 100
@@ -11853,7 +11821,7 @@ Datenklos5
   0
 INSERT
   5
-DA
+D9
 100
 AcDbEntity
 100
@@ -11877,7 +11845,7 @@ Datenklos5
   0
 INSERT
   5
-DB
+DA
 100
 AcDbEntity
 100
@@ -11901,7 +11869,7 @@ Datenklos5
   0
 INSERT
   5
-DC
+DB
 100
 AcDbEntity
 100
@@ -11925,7 +11893,7 @@ Datenklos5
   0
 INSERT
   5
-DD
+DC
 100
 AcDbEntity
 100
@@ -11949,7 +11917,7 @@ Datenklos5
   0
 INSERT
   5
-DE
+DD
 100
 AcDbEntity
 100
@@ -11973,7 +11941,7 @@ Datenklos5
   0
 INSERT
   5
-DF
+DE
 100
 AcDbEntity
 100
@@ -11997,7 +11965,7 @@ Datenklos5
   0
 INSERT
   5
-E0
+DF
 100
 AcDbEntity
 100
@@ -12021,7 +11989,7 @@ Datenklos5
   0
 INSERT
   5
-E1
+E0
 100
 AcDbEntity
 100
@@ -12045,7 +12013,7 @@ Datenklos5
   0
 LWPOLYLINE
   5
-E2
+E1
   8
 Road-Trackway
  62
@@ -12089,7 +12057,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-E3
+E2
   8
 Road-Trackway
  62
@@ -12121,7 +12089,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-E4
+E3
   8
 Road-Trackway
  62
@@ -12153,7 +12121,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-E5
+E4
   8
 Road-Trackway
  62
@@ -12185,7 +12153,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-E6
+E5
   8
 Road-Trackway
  62
@@ -12203,21 +12171,21 @@ AcDbPolyline
  70
 0
  10
-482831.5325539999757893
+482827.4855605987249874
  20
-230507.5261400000017602
+230506.5722956872195937
  30
 0.0
  10
-482832.0
+482850.7994195141945966
  20
-230442.0
+230442.3117717814166099
  30
 0.0
   0
 INSERT
   5
-E7
+E6
 100
 AcDbEntity
 100
@@ -12241,7 +12209,7 @@ Generator6x6
   0
 INSERT
   5
-E8
+E7
 100
 AcDbEntity
 100
@@ -12257,15 +12225,15 @@ BYLAYER
   2
 Generator6x6
  10
-482842.0231172091444023
+482839.0976188683416694
  20
-230486.2837581756175496
+230495.8859660028247163
  30
 0.0
   0
 INSERT
   5
-E9
+E8
 100
 AcDbEntity
 100
@@ -12289,7 +12257,7 @@ Datenklos5
   0
 INSERT
   5
-EA
+E9
 100
 AcDbEntity
 100
@@ -12313,7 +12281,7 @@ Datenklos5
   0
 INSERT
   5
-EB
+EA
 100
 AcDbEntity
 100
@@ -12337,7 +12305,7 @@ Datenklos5
   0
 INSERT
   5
-EC
+EB
 100
 AcDbEntity
 100
@@ -12361,7 +12329,7 @@ Datenklos5
   0
 LINE
   5
-ED
+EC
 100
 AcDbEntity
 100
@@ -12389,7 +12357,7 @@ BYLAYER
   0
 LINE
   5
-EE
+ED
 100
 AcDbEntity
 100
@@ -12417,7 +12385,7 @@ BYLAYER
   0
 LINE
   5
-EF
+EE
 100
 AcDbEntity
 100
@@ -12437,9 +12405,37 @@ BYLAYER
  30
 0.0
  11
-482870.7507290000212379
+482847.8590593850822188
  21
-230500.6709909999917727
+230481.9086215206480119
+ 31
+0.0
+  0
+LINE
+  5
+EF
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Water infrastructure
+ 62
+256
+370
+-1
+  6
+BYLAYER
+ 10
+482845.0
+ 20
+230485.0
+ 30
+0.0
+ 11
+482847.8590593850822188
+ 21
+230481.9086215206480119
  31
 0.0
   0
@@ -12459,49 +12455,21 @@ Water infrastructure
   6
 BYLAYER
  10
-482870.7507290000212379
+482847.8590593851404265
  20
-230500.6709909999917727
+230481.9086215206771158
  30
 0.0
  11
-482891.4449250000179745
+482862.3648360221995972
  21
-230439.3145150000054855
+230445.0561079019389581
  31
 0.0
   0
 LINE
   5
 F1
-100
-AcDbEntity
-100
-AcDbLine
-  8
-Water infrastructure
- 62
-256
-370
--1
-  6
-BYLAYER
- 10
-482891.4449250000179745
- 20
-230439.3145150000054855
- 30
-0.0
- 11
-482852.597925000009127
- 21
-230442.9450760000036098
- 31
-0.0
-  0
-LINE
-  5
-F2
 100
 AcDbEntity
 100
@@ -12529,7 +12497,7 @@ BYLAYER
   0
 LINE
   5
-F3
+F2
 100
 AcDbEntity
 100
@@ -12557,7 +12525,7 @@ BYLAYER
   0
 LINE
   5
-F4
+F3
 100
 AcDbEntity
 100
@@ -12585,7 +12553,7 @@ BYLAYER
   0
 LINE
   5
-F5
+F4
 100
 AcDbEntity
 100
@@ -12613,7 +12581,7 @@ BYLAYER
   0
 LINE
   5
-F6
+F5
 100
 AcDbEntity
 100
@@ -12641,7 +12609,7 @@ BYLAYER
   0
 LINE
   5
-F7
+F6
 100
 AcDbEntity
 100
@@ -12669,7 +12637,7 @@ BYLAYER
   0
 LWPOLYLINE
   5
-F8
+F7
   8
 Lighting-ExtFestoon
  62
@@ -12701,7 +12669,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-F9
+F8
   8
 Road-Trackway
  62
@@ -12739,7 +12707,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-FA
+F9
   8
 Lighting-ExtFestoon
  62
@@ -12777,7 +12745,7 @@ AcDbPolyline
   0
 INSERT
   5
-FB
+FA
 100
 AcDbEntity
 100
@@ -12801,7 +12769,7 @@ Generator6x6
   0
 INSERT
   5
-FC
+FB
 100
 AcDbEntity
 100
@@ -12817,15 +12785,15 @@ BYLAYER
   2
 Toilets
  10
-482860.0405759999994189
+482840.0
  20
-230428.0597769999876618
+230480.0
  30
 0.0
   0
 INSERT
   5
-FD
+FC
 100
 AcDbEntity
 100
@@ -12849,7 +12817,7 @@ Toilets
   0
 INSERT
   5
-FE
+FD
 100
 AcDbEntity
 100
@@ -12873,7 +12841,7 @@ Toilets
   0
 LINE
   5
-FF
+FE
 100
 AcDbEntity
 100
@@ -12901,7 +12869,7 @@ BYLAYER
   0
 LINE
   5
-100
+FF
 100
 AcDbEntity
 100
@@ -12929,7 +12897,7 @@ BYLAYER
   0
 LINE
   5
-101
+100
 100
 AcDbEntity
 100
@@ -12993,11 +12961,11 @@ E
   3
 AcDbVariableDictionary
 350
-102
+101
   3
 QCAD_OBJECTS
 350
-103
+102
   0
 DICTIONARY
   5
@@ -13461,7 +13429,7 @@ Layout2
   0
 DICTIONARY
   5
-102
+101
 100
 AcDbDictionary
 281
@@ -13469,15 +13437,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-105
+104
   3
 HIDETEXT
 350
-104
+103
   0
 DICTIONARYVAR
   5
-104
+103
 100
 DictionaryVariables
 280
@@ -13487,7 +13455,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-105
+104
 100
 DictionaryVariables
 280
@@ -13497,7 +13465,7 @@ DictionaryVariables
   0
 DICTIONARY
   5
-103
+102
 100
 AcDbDictionary
 281
@@ -13505,181 +13473,193 @@ AcDbDictionary
   3
 Grid/DisplayGrid00
 350
-106
+105
   3
 Grid/DisplayGrid01
 350
-107
+106
   3
 Grid/DisplayGrid02
 350
-108
+107
   3
 Grid/DisplayGrid03
 350
-109
+108
   3
 Grid/GridSpacingX00
 350
-10A
+109
   3
 Grid/GridSpacingX01
 350
-10B
+10A
   3
 Grid/GridSpacingX02
 350
-10C
+10B
   3
 Grid/GridSpacingX03
 350
-10D
+10C
   3
 Grid/GridSpacingY00
 350
-10E
+10D
   3
 Grid/GridSpacingY01
 350
-10F
+10E
   3
 Grid/GridSpacingY02
 350
-110
+10F
   3
 Grid/GridSpacingY03
 350
-111
+110
   3
 Grid/IsometricGrid00
 350
-112
+111
   3
 Grid/IsometricGrid01
 350
-113
+112
   3
 Grid/IsometricGrid02
 350
-114
+113
   3
 Grid/IsometricGrid03
 350
-115
+114
   3
 Grid/IsometricProjection00
 350
-116
+115
   3
 Grid/IsometricProjection01
 350
-117
+116
   3
 Grid/IsometricProjection02
 350
-118
+117
   3
 Grid/IsometricProjection03
 350
-119
+118
   3
 Grid/MetaGridSpacingX00
 350
-11A
+119
   3
 Grid/MetaGridSpacingX01
 350
-11B
+11A
   3
 Grid/MetaGridSpacingX02
 350
-11C
+11B
   3
 Grid/MetaGridSpacingX03
 350
-11D
+11C
   3
 Grid/MetaGridSpacingY00
 350
-11E
+11D
   3
 Grid/MetaGridSpacingY01
 350
-11F
+11E
   3
 Grid/MetaGridSpacingY02
 350
-120
+11F
   3
 Grid/MetaGridSpacingY03
 350
-121
+120
   3
 MultiPageSettings/Columns
 350
-122
+121
   3
 MultiPageSettings/GlueMarginsBottom
 350
-123
+122
   3
 MultiPageSettings/GlueMarginsLeft
 350
-124
+123
   3
 MultiPageSettings/GlueMarginsRight
 350
-125
+124
   3
 MultiPageSettings/GlueMarginsTop
 350
-126
+125
   3
 MultiPageSettings/PrintCropMarks
 350
-127
+126
   3
 MultiPageSettings/Rows
 350
-128
+127
   3
 PageSettings/OffsetX
 350
-129
+128
   3
 PageSettings/OffsetY
 350
-12A
+129
   3
 PageSettings/PageOrientation
 350
-12B
+12A
   3
 PageSettings/PaperHeight
 350
-12C
+12B
   3
 PageSettings/PaperWidth
 350
-12D
+12C
   3
 PageSettings/Scale
 350
-12E
+12D
   3
 PageSettings/ShowPaperBorders
 350
-12F
+12E
   3
 UnitSettings/PaperUnit
 350
-130
+12F
+  0
+XRECORD
+  5
+105
+330
+102
+100
+AcDbXrecord
+280
+1
+290
+1
   0
 XRECORD
   5
 106
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13691,7 +13671,7 @@ XRECORD
   5
 107
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13703,7 +13683,7 @@ XRECORD
   5
 108
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13715,19 +13695,19 @@ XRECORD
   5
 109
 330
-103
+102
 100
 AcDbXrecord
 280
 1
-290
-1
+1000
+auto
   0
 XRECORD
   5
 10A
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13739,7 +13719,7 @@ XRECORD
   5
 10B
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13751,7 +13731,7 @@ XRECORD
   5
 10C
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13763,7 +13743,7 @@ XRECORD
   5
 10D
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13775,7 +13755,7 @@ XRECORD
   5
 10E
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13787,7 +13767,7 @@ XRECORD
   5
 10F
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13799,7 +13779,7 @@ XRECORD
   5
 110
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13811,19 +13791,19 @@ XRECORD
   5
 111
 330
-103
+102
 100
 AcDbXrecord
 280
 1
-1000
-auto
+290
+0
   0
 XRECORD
   5
 112
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13835,7 +13815,7 @@ XRECORD
   5
 113
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13847,7 +13827,7 @@ XRECORD
   5
 114
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13859,19 +13839,19 @@ XRECORD
   5
 115
 330
-103
+102
 100
 AcDbXrecord
 280
 1
-290
+ 90
 0
   0
 XRECORD
   5
 116
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13883,7 +13863,7 @@ XRECORD
   5
 117
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13895,7 +13875,7 @@ XRECORD
   5
 118
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13907,19 +13887,19 @@ XRECORD
   5
 119
 330
-103
+102
 100
 AcDbXrecord
 280
 1
- 90
-0
+1000
+auto
   0
 XRECORD
   5
 11A
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13931,7 +13911,7 @@ XRECORD
   5
 11B
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13943,7 +13923,7 @@ XRECORD
   5
 11C
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13955,7 +13935,7 @@ XRECORD
   5
 11D
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13967,7 +13947,7 @@ XRECORD
   5
 11E
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13979,7 +13959,7 @@ XRECORD
   5
 11F
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -13991,7 +13971,7 @@ XRECORD
   5
 120
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -14003,19 +13983,7 @@ XRECORD
   5
 121
 330
-103
-100
-AcDbXrecord
-280
-1
-1000
-auto
-  0
-XRECORD
-  5
-122
-330
-103
+102
 100
 AcDbXrecord
 280
@@ -14025,9 +13993,21 @@ AcDbXrecord
   0
 XRECORD
   5
+122
+330
+102
+100
+AcDbXrecord
+280
+1
+ 40
+10.0
+  0
+XRECORD
+  5
 123
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -14039,7 +14019,7 @@ XRECORD
   5
 124
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -14051,7 +14031,7 @@ XRECORD
   5
 125
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -14063,19 +14043,7 @@ XRECORD
   5
 126
 330
-103
-100
-AcDbXrecord
-280
-1
- 40
-10.0
-  0
-XRECORD
-  5
-127
-330
-103
+102
 100
 AcDbXrecord
 280
@@ -14085,9 +14053,9 @@ AcDbXrecord
   0
 XRECORD
   5
-128
+127
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -14097,33 +14065,33 @@ AcDbXrecord
   0
 XRECORD
   5
-129
+128
 330
-103
+102
 100
 AcDbXrecord
 280
 1
  40
-0.0
+482675.7643884214921854
+  0
+XRECORD
+  5
+129
+330
+102
+100
+AcDbXrecord
+280
+1
+ 40
+230257.6072215393360239
   0
 XRECORD
   5
 12A
 330
-103
-100
-AcDbXrecord
-280
-1
- 40
-0.0
-  0
-XRECORD
-  5
-12B
-330
-103
+102
 100
 AcDbXrecord
 280
@@ -14133,9 +14101,9 @@ Portrait
   0
 XRECORD
   5
-12C
+12B
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -14145,9 +14113,9 @@ AcDbXrecord
   0
 XRECORD
   5
-12D
+12C
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -14157,21 +14125,21 @@ AcDbXrecord
   0
 XRECORD
   5
-12E
+12D
 330
-103
+102
 100
 AcDbXrecord
 280
 1
 1000
-1:1
+1:2500
   0
 XRECORD
   5
-12F
+12E
 330
-103
+102
 100
 AcDbXrecord
 280
@@ -14181,9 +14149,9 @@ AcDbXrecord
   0
 XRECORD
   5
-130
+12F
 330
-103
+102
 100
 AcDbXrecord
 280
