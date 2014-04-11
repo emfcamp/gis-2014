@@ -1467,7 +1467,7 @@ AcDbLayerTableRecord
   2
 NOC-DK-Label
  70
-4
+0
  62
 134
 420
@@ -1663,28 +1663,6 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-NOC-DK
- 70
-4
- 62
-134
-420
-32896
-  6
-DASHED2
-370
-0
-390
-F
-  0
-LAYER
-  5
-51
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
 Road-Trackway
  70
 5
@@ -1696,6 +1674,28 @@ Road-Trackway
 CONTINUOUS
 370
 100
+390
+F
+  0
+LAYER
+  5
+51
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+NOC-DK
+ 70
+4
+ 62
+134
+420
+32896
+  6
+DASHED2
+370
+0
 390
 F
   0
@@ -15443,7 +15443,7 @@ BYLAYER
  40
 5.0
   1
-E1
+D1
  50
 0.0
  41
