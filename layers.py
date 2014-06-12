@@ -42,16 +42,8 @@ layers = [
 			'color': '008000',
 			'width': '1',
 			'text': '000000',
-		},
-		{
-			'file': mapfile,
-			'layers': ['Field-Letters'],
-			'color': '008000',
-			'width': '1',
-			'text': '000000',
-		},
-
-	]},
+		}]	
+    },
 	{
 		'title': 'Perimeter',
 		'input': [
@@ -98,7 +90,7 @@ layers = [
 			'color': '000000',
 			'width': '1',
             'text': '000000',
-            'fontSize': 20,
+            'fontSize': 5,
 		},
 	]},
 	{
