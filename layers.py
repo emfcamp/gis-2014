@@ -97,7 +97,8 @@ layers = [
 			'layers': ['Tents'],
 			'color': '000000',
 			'width': '1',
-            'text': '000000'
+            'text': '000000',
+            'fontSize': 20,
 		},
 	]},
 	{
