@@ -95,6 +95,7 @@ layers = [
 	]},
 	{
 		'title': 'NOC',
+        'enabled': False,
 		'input': [
 		{
 			'file': mapfile,
