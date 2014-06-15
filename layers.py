@@ -90,8 +90,15 @@ layers = [
 			'color': '000000',
 			'width': '1',
             'text': '000000',
-            'fontSize': 5,
+            'fontSize': 7,
 		},
+		{
+			'file': mapfile,
+			'layers': ['Text'],
+            'text': '000000',
+            'fontSize': 7,
+		},
+
 	]},
 	{
 		'title': 'NOC',
