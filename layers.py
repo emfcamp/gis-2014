@@ -33,94 +33,99 @@ mapfile = 'emf2014.dxf'
 #
 
 layers = [
-	{
-		'title': 'Fields',
-		'input': [
-		{
-			'file': mapfile,
-			'layers': ['Event Fields'],
-			'color': '008000',
-			'width': '1',
-			'text': '000000',
-		}]	
+    {
+        'title': 'Fields',
+        'input': [
+        {
+            'file': mapfile,
+            'layers': ['Event Fields'],
+            'color': '008000',
+            'width': '1',
+            'text': '000000',
+        }]    
     },
-	{
-		'title': 'Perimeter',
-		'input': [
-		{
-			'file': mapfile,
-			'layers': ['Perimeter'],
-			'color': 'ff0000',
-			'width': '3',
-		},
-	]},
-	{
-		'title': 'Waterways',
-		'input': [
-		{
-			'file': mapfile,
-			'layers': ['Rivers'],
-			'color': '0000ff',
-			'width': '2',
-		},
-		{
-			'file': mapfile,
-			'layers': ['Water - Surface'],
-			'color': '0000ff',
-			'width': '2',
-		},
+    {
+        'title': 'Perimeter',
+        'input': [
+        {
+            'file': mapfile,
+            'layers': ['Perimeter'],
+            'color': 'ff0000',
+            'width': '3',
+        },
+    ]},
+    {
+        'title': 'Waterways',
+        'input': [
+        {
+            'file': mapfile,
+            'layers': ['Rivers'],
+            'color': '0000ff',
+            'width': '2',
+        },
+        {
+            'file': mapfile,
+            'layers': ['Water - Surface'],
+            'color': '0000ff',
+            'width': '2',
+        },
 
     ]},
-	{
-		'title': 'Power',
-		'input': [
-		{
-			'file': mapfile,
-			'layers': ['Power - Generator'],
-			'color': 'ff00ff',
-			'width': '2',
-		}]
+    {
+        'title': 'Power',
+        'input': [
+        {
+            'file': mapfile,
+            'layers': ['Power - Generator'],
+            'color': 'ff00ff',
+            'width': '2',
+        }]
     },
-	{
-		'title': 'Tents',
-		'input': [
-		{
-			'file': mapfile,
-			'layers': ['Tents'],
-			'color': '000000',
-			'width': '1',
+    {
+        'title': 'Tents',
+        'input': [
+        {
+            'file': mapfile,
+            'layers': ['Tents'],
+            'color': '000000',
+            'width': '1',
             'text': '000000',
             'fontSize': 7,
-		},
+        },
 
-	]},
-	{
-		'title': 'Labels',
-		'input': [
-		{
-			'file': mapfile,
-			'layers': ['Labels'],
+    ]},
+    {
+        'title': 'Labels',
+        'input': [
+        {
+            'file': mapfile,
+            'layers': ['Labels'],
             'text': '000000',
             'fontSize': 7,
-		}]
+        }]
     },
-	{
-		'title': 'NOC',
+    {'title': 'NOC',
         'enabled': False,
-		'input': [
-		{
-			'file': mapfile,
-			'layers': ['NOC-DK'],
-			'color': '009900',
-			'width': '1',
-		},
-		{
-			'file': mapfile,
-			'layers': ['NOC-DK-Label'],
-			'color': '009900',
-			'width': '1',
+        'input': [
+        {'file': mapfile,
+            'layers': ['NOC-DK'],
+            'color': '009900',
+            'width': '1',
+        },
+        {'file': mapfile,
+            'layers': ['NOC-DK-Label'],
+            'color': '009900',
+            'width': '1',
             'text': '000000'
-		},
-
-	]},
+        },
+    ]},
+    {'title': 'Water',
+        'enabled': False,
+        'input': [
+        {'file': mapfile,
+            'layers': ['Water infrastructure'],
+            'color': '009900',
+            'width': '1',
+        }
+    ]},
 ]
