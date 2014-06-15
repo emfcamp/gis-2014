@@ -33,16 +33,14 @@ mapfile = 'emf2014.dxf'
 #
 
 layers = [
-    {
-        'title': 'Fields',
+    {'title': 'Fields',
         'input': [
-        {
-            'file': mapfile,
+        {'file': mapfile,
             'layers': ['Event Fields'],
             'color': '008000',
             'width': '1',
             'text': '000000',
-        }]    
+        }]
     },
     {
         'title': 'Perimeter',
@@ -90,7 +88,6 @@ layers = [
             'color': '000000',
             'width': '1',
             'text': '000000',
-            'fontSize': 7,
         },
 
     ]},
@@ -99,7 +96,6 @@ layers = [
         {'file': mapfile,
             'layers': ['Labels'],
             'text': '000000',
-            'fontSize': 7,
         }]
     },
     {'title': 'Toilets',
