@@ -92,14 +92,18 @@ layers = [
             'text': '000000',
             'fontSize': 7,
 		},
-		{
-			'file': mapfile,
-			'layers': ['Text'],
-            'text': '000000',
-            'fontSize': 7,
-		},
 
 	]},
+	{
+		'title': 'Labels',
+		'input': [
+		{
+			'file': mapfile,
+			'layers': ['Labels'],
+            'text': '000000',
+            'fontSize': 7,
+		}]
+    },
 	{
 		'title': 'NOC',
         'enabled': False,
