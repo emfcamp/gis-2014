@@ -94,14 +94,20 @@ layers = [
         },
 
     ]},
-    {
-        'title': 'Labels',
+    {'title': 'Labels',
         'input': [
-        {
-            'file': mapfile,
+        {'file': mapfile,
             'layers': ['Labels'],
             'text': '000000',
             'fontSize': 7,
+        }]
+    },
+    {'title': 'Toilets',
+        'input': [
+        {'file': mapfile,
+            'layers': ['Toilets'],
+            'color': 'ff00ff',
+            'width': 1
         }]
     },
     {'title': 'NOC',
