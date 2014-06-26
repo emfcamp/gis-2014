@@ -46,6 +46,24 @@ layers = [
         ]
     },
     {
+        'title': 'Waterways',
+        'input': [
+        {
+            'file': mapfile,
+            'layers': ['Rivers'],
+            'color': '000099',
+            'width': '2',
+        },
+        {
+            'file': mapfile,
+            'layers': ['Water - Surface'],
+            'color': '000099',
+            'fill': '000099',
+            'width': '2',
+        },
+
+    ]},
+    {
         'title': 'Perimeter',
         'input': [
         {
@@ -54,23 +72,6 @@ layers = [
             'color': 'ff0000',
             'width': '3',
         },
-    ]},
-    {
-        'title': 'Waterways',
-        'input': [
-        {
-            'file': mapfile,
-            'layers': ['Rivers'],
-            'color': '0000ff',
-            'width': '2',
-        },
-        {
-            'file': mapfile,
-            'layers': ['Water - Surface'],
-            'color': '0000ff',
-            'width': '2',
-        },
-
     ]},
     {
         'title': 'Power',
@@ -129,7 +130,7 @@ layers = [
         'input': [
         {'file': mapfile,
             'layers': ['Water infrastructure'],
-            'color': '009900',
+            'color': '0000FF',
             'width': '1',
         }
     ]},
