@@ -36,11 +36,14 @@ layers = [
     {'title': 'Fields',
         'input': [
         {'file': mapfile,
-            'layers': ['Event Fields'],
-            'color': '008000',
-            'width': '1',
-            'text': '000000',
-        }]
+            'layers': ['Event Fields \(Hatch\)'],
+            'fill': '00B503',
+        },
+        {'file': mapfile,
+            'layers': ['Fields \(Hatch\)'],
+            'fill': 'CFB617',
+        }
+        ]
     },
     {
         'title': 'Perimeter',
