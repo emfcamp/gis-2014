@@ -45,6 +45,15 @@ layers = [
         }
         ]
     },
+    {'title': 'Trees',
+        'input': [
+        {'file': mapfile,
+            'layers': ['Trees'],
+            'fill': '3E7830',
+        }
+        ]
+    },
+
     {
         'title': 'Waterways',
         'input': [
@@ -52,6 +61,7 @@ layers = [
             'file': mapfile,
             'layers': ['Rivers'],
             'color': '000099',
+            'width_units': 'meters',
             'width': '2',
         },
         {
@@ -59,10 +69,30 @@ layers = [
             'layers': ['Water - Surface'],
             'color': '000099',
             'fill': '000099',
+            'width': '1',
+        },
+
+    ]},
+    {
+        'title': 'Paths',
+        'input': [
+        {
+            'file': mapfile,
+            'layers': ['Paths - Gravel Track'],
+            'color': '999999',
+            'width_units': 'meters',
+            'width': '4',
+        },
+        {
+            'file': mapfile,
+            'layers': ['Paths - Trackway'],
+            'color': '999999',
+            'width_units': 'meters',
             'width': '2',
         },
 
     ]},
+
     {
         'title': 'Perimeter',
         'input': [
@@ -70,7 +100,8 @@ layers = [
             'file': mapfile,
             'layers': ['Perimeter'],
             'color': 'ff0000',
-            'width': '3',
+            'width_units': 'meters',
+            'width': '1',
         },
     ]},
     {
