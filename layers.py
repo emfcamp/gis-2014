@@ -33,7 +33,7 @@ mapfile = 'emf2014.dxf'
 #
 
 layers = [
-    {'title': 'Fields',
+    {'title': 'EMF Base',
         'input': [
         {'file': mapfile,
             'layers': ['Event Fields \(Hatch\)'],
@@ -42,21 +42,11 @@ layers = [
         {'file': mapfile,
             'layers': ['Fields \(Hatch\)'],
             'fill': 'CFB617',
-        }
-        ]
-    },
-    {'title': 'Trees',
-        'input': [
+        },
         {'file': mapfile,
             'layers': ['Trees'],
             'fill': '3E7830',
-        }
-        ]
-    },
-
-    {
-        'title': 'Waterways',
-        'input': [
+        },
         {
             'file': mapfile,
             'layers': ['Rivers'],
@@ -71,11 +61,6 @@ layers = [
             'fill': '000099',
             'width': '1',
         },
-
-    ]},
-    {
-        'title': 'Paths',
-        'input': [
         {
             'file': mapfile,
             'layers': ['Paths - Gravel Track'],
@@ -90,12 +75,6 @@ layers = [
             'width_units': 'meters',
             'width': '2',
         },
-
-    ]},
-
-    {
-        'title': 'Perimeter',
-        'input': [
         {
             'file': mapfile,
             'layers': ['Perimeter'],
