@@ -98,16 +98,6 @@ layers = [
         },
     ]},
     {
-        'title': 'Power',
-        'input': [
-        {
-            'file': mapfile,
-            'layers': ['Power - Generator'],
-            'color': 'ff00ff',
-            'width': '2',
-        }]
-    },
-    {
         'title': 'Tents',
         'input': [
         {
@@ -158,4 +148,15 @@ layers = [
             'width': '1',
         }
     ]},
+    {
+        'title': 'Power',
+        'enabled': False
+        'input': [
+        {
+            'file': mapfile,
+            'layers': ['Power - Generator'],
+            'color': 'ff00ff',
+            'width': '2',
+        }]
+    },
 ]
