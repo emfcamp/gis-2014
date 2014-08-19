@@ -150,7 +150,7 @@ layers = [
     ]},
     {
         'title': 'Power',
-        'enabled': False
+        'enabled': False,
         'input': [
         {
             'file': mapfile,
