@@ -77,6 +77,20 @@ layers = [
         },
         {
             'file': mapfile,
+            'layers': ['Paths - Euromat'],
+            'color': '999999',
+            'width_units': 'meters',
+            'width': '2',
+        },
+        {
+            'file': mapfile,
+            'layers': ['Paths - Fire Lane'],
+            'color': '999999',
+            'width_units': 'meters',
+            'width': '2',
+        },
+        {
+            'file': mapfile,
             'layers': ['Perimeter'],
             'color': 'ff0000',
             'width_units': 'meters',
