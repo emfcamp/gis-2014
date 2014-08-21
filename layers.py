@@ -124,6 +124,14 @@ layers = [
             'width': 1
         }]
     },
+    {'title': 'Installations',
+        'input': [
+        {'file': mapfile,
+            'layers': ['Installations'],
+            'color': '444444',
+            'width': '1',
+        }
+    ]},
     {'title': 'NOC',
         'enabled': False,
         'input': [
