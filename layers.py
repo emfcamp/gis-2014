@@ -129,6 +129,7 @@ layers = [
         {'file': mapfile,
             'layers': ['Installations'],
             'color': '444444',
+            'fill': '444444',
             'width': '1',
         }
     ]},
